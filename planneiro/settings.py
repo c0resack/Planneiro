@@ -81,9 +81,9 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME' : 'PLANNEIRO',
-        'USER' : 'root',
+        'USER' : 'usuario1',
         'PASSWORD' : 'c0resack!',
-        'HOST' : 'localhost',
+        'HOST' : 'baseplanneiro2.mysql.database.azure.com',
         'PORT' : '3306',
         
     }
